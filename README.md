@@ -80,4 +80,4 @@ and then we have the
 
 this is there so we can load the firmware onto the chip
 
-it is connected to the BOOT via a global net label 
+it is connected to the BOOT pin on the chip via a global net label 
