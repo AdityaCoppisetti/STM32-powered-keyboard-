@@ -96,6 +96,13 @@ and once again ive labeled it nicely
 
 before we move onto building the pcb , lets define the footprints
 
+
+# FOOTPRINTS 
+
+<img width="717" height="424" alt="image" src="https://github.com/user-attachments/assets/bc6e3535-d4ea-49f7-847f-ebe1b4902058" />
+
+
+
 # NOW LETS BUILD THE PCB 
 
 <img width="737" height="719" alt="image" src="https://github.com/user-attachments/assets/7044cddb-c72b-4694-8093-478302eca523" />
