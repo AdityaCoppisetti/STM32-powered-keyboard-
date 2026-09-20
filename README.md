@@ -114,3 +114,4 @@ we have to open the pcb editor and import our parts by updating the pcb
 
 also i accidentally connected the boot button to +3V3 when its supposed to be +3.3V
 
+<img width="556" height="537" alt="image" src="https://github.com/user-attachments/assets/e69c0cff-44ba-4696-b7bb-c17256b0af8d" />
