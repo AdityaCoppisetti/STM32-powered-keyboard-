@@ -84,3 +84,6 @@ it is connected to the BOOT pin on the chip via a global net label
 
 
 and then here is both the **ESD protection** and the **Voltage step down** 
+
+<img width="905" height="376" alt="image" src="https://github.com/user-attachments/assets/618d999d-bb6a-405a-8bbd-1f855b76002d" />
+
