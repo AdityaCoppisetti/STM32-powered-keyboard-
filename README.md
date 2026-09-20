@@ -30,3 +30,5 @@ https://www.alldatasheet.com/datasheet-pdf/download/1373176/STMICROELECTRONICS/S
 # pinout of the chip - 
 
 <img width="671" height="609" alt="image" src="https://github.com/user-attachments/assets/030d3d06-bfac-40b4-b952-aeb3df5921f6" />
+
+now before we start plotting the schematic , we need to understand what we would have to plot. 
