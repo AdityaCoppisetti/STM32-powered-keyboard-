@@ -42,5 +42,5 @@ here is what the datasheet says -
 
 <img width="557" height="161" alt="image" src="https://github.com/user-attachments/assets/7b540d89-1ea7-4e91-9220-e037158ecf81" />
 
-and then the ESD protextion
+and then the ESD protection
 
