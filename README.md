@@ -56,4 +56,5 @@ We start off with the MCU
 
 ## the STM32 pinout is like this 
 
+<img width="593" height="897" alt="image" src="https://github.com/user-attachments/assets/63b5271e-db10-4712-9ef3-57e832617c94" />
 
