@@ -33,4 +33,5 @@ https://www.alldatasheet.com/datasheet-pdf/download/1373176/STMICROELECTRONICS/S
 
 now before we start plotting the schematic , we need to understand what we would have to plot. 
 
-its mainly all the same
+its mainly all the same 
+Like reset button , usb and allat , but for this chip we need to have precise esd protection and then voltage regulation , lets see what info we have in the datasheet
