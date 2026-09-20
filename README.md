@@ -103,6 +103,8 @@ before we move onto building the pcb , lets define the footprints
 
 oops it seems i forgot to asign a footprint to a resister
 
+just asign it the same as others
+
 # NOW LETS BUILD THE PCB 
 
 we have to open the pcb editor and import our parts by updating the pcb 
