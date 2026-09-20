@@ -54,4 +54,6 @@ and then the ESD protection.
 
 We start off with the MCU
 
+## the STM32 pinout is like this 
+
 
