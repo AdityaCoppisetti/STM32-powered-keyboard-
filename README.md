@@ -87,3 +87,11 @@ and then here is both the **ESD protection** and the **Voltage step down**
 
 <img width="905" height="376" alt="image" src="https://github.com/user-attachments/assets/618d999d-bb6a-405a-8bbd-1f855b76002d" />
 
+
+and then i have the usb connection , which is lowkey just normal besides the fact ive added a 500mA fuse 
+
+<img width="725" height="876" alt="image" src="https://github.com/user-attachments/assets/c80c110b-b8d5-4a8f-9aa6-346b271037fe" />
+
+and once again ive labeled it nicely 
+
+
