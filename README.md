@@ -95,3 +95,4 @@ and then i have the usb connection , which is lowkey just normal besides the fac
 and once again ive labeled it nicely 
 
 
+# NOW LETS BUILD THE PCB 
