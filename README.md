@@ -14,4 +14,4 @@ The STM32F072 is a series of 32-bit ARM Cortex-M0 microcontrollers manufactured 
 
 this is a very popular microcontroller and many people often use it to build flight controllers.
 
-for my past builds
+for my past builds i was either using the raspberry pico , the arduino nano or oh my god the esp32 ( why the oh my god?
