@@ -94,5 +94,7 @@ and then i have the usb connection , which is lowkey just normal besides the fac
 
 and once again ive labeled it nicely 
 
+before we move onto building the pcb , lets define the footprints
 
 # NOW LETS BUILD THE PCB 
+
