@@ -65,3 +65,5 @@ then to label its pins ive used global net labels
 and then we need the - 
 
 # DECOUPLING CAPACITORS
+
+<img width="734" height="330" alt="image" src="https://github.com/user-attachments/assets/5591ebe5-ae06-4f23-9f66-c0fd93881ca6" />
