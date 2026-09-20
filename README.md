@@ -61,3 +61,7 @@ We start off with the MCU
 i really like labeling my schematic neatly so i use lines to point and reason why im using what and what it does 
 
 then to label its pins ive used global net labels 
+
+and then we need the - 
+
+# DECOUPLING CAPACITORS
