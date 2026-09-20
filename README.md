@@ -77,3 +77,5 @@ and then we have the
 
 
 <img width="386" height="388" alt="image" src="https://github.com/user-attachments/assets/dc9e720f-68f1-40de-ab95-42d7345c58f0" />
+
+this is there so we can load the firmware onto the chip
