@@ -44,3 +44,4 @@ here is what the datasheet says -
 
 and then the ESD protection
 
+
