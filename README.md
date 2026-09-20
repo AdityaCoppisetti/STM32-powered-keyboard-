@@ -35,3 +35,10 @@ now before we start plotting the schematic , we need to understand what we would
 
 its mainly all the same 
 Like reset button , usb and allat , but for this chip we need to have precise esd protection and then voltage regulation , lets see what info we have in the datasheet
+
+# the voltage regulator 
+
+here is what the datasheet says - 
+
+<img width="557" height="161" alt="image" src="https://github.com/user-attachments/assets/7b540d89-1ea7-4e91-9220-e037158ecf81" />
+
