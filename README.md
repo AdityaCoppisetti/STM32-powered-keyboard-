@@ -76,3 +76,4 @@ and then we have the
 # boot/ reset button
 
 
+<img width="386" height="388" alt="image" src="https://github.com/user-attachments/assets/dc9e720f-68f1-40de-ab95-42d7345c58f0" />
