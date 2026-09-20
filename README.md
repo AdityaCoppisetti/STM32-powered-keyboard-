@@ -25,3 +25,6 @@ So i thought using this chip would be really cool
 this is taken from a datasheet , you can look it up. but if you want one , here is the exact link!
 
 https://www.alldatasheet.com/datasheet-pdf/download/1373176/STMICROELECTRONICS/STM32F072CBT6.html
+
+
+# pinout of the chip - 
