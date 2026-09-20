@@ -52,4 +52,6 @@ and then the ESD protection.
 
 # PLOTTING THE SCHEMATIC
 
+We start off with the MCU
+
 
