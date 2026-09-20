@@ -50,6 +50,6 @@ and then the ESD protection.
 
 
 
-#PLOTTING THE SCHEMATIC
+# PLOTTING THE SCHEMATIC
 
 
