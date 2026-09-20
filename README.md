@@ -98,3 +98,7 @@ before we move onto building the pcb , lets define the footprints
 
 # NOW LETS BUILD THE PCB 
 
+<img width="737" height="719" alt="image" src="https://github.com/user-attachments/assets/7044cddb-c72b-4694-8093-478302eca523" />
+
+
+
