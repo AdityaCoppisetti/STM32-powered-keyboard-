@@ -16,3 +16,4 @@ this is a very popular microcontroller and many people often use it to build fli
 
 for my past builds i was either using the raspberry pico , the arduino nano or oh my god the esp32 ( why the oh my god? BECAUSE IVE BUILT A DEVBOARD AROUND THE ESP32 ABOUT 23 TIMES NOW AND ITS ALWAYS THE SAME)
 
+So i thought using this chip would be really cool
