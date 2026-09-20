@@ -23,3 +23,5 @@ So i thought using this chip would be really cool
 <img width="667" height="743" alt="image" src="https://github.com/user-attachments/assets/3617ae94-140b-463a-9457-7f2f00675627" />
 
 this is taken from a datasheet , you can look it up. but if you want one , here is the exact link!
+
+https://www.alldatasheet.com/datasheet-pdf/download/1373176/STMICROELECTRONICS/STM32F072CBT6.html
