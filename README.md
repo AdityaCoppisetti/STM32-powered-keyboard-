@@ -9,3 +9,4 @@ as you can see in my project keylouder - https://github.com/AdityaCoppisetti/key
 BUT the challenge with that was that it required alot of external space for the devboard to be in and therefore i had extra
 space on the pcb , which gave me the idea of adding modules. however for this pcb i want a proper 60% keyboard with no extra gimmicks. 
 
+for this pcb i will be using the STM32F072CBTx 
