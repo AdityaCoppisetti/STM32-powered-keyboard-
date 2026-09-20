@@ -101,7 +101,7 @@ before we move onto building the pcb , lets define the footprints
 
 <img width="717" height="424" alt="image" src="https://github.com/user-attachments/assets/bc6e3535-d4ea-49f7-847f-ebe1b4902058" />
 
-
+oops it seems i forgot to asign a footprint to a resister
 
 # NOW LETS BUILD THE PCB 
 
