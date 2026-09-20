@@ -58,3 +58,5 @@ We start off with the MCU
 
 <img width="593" height="897" alt="image" src="https://github.com/user-attachments/assets/63b5271e-db10-4712-9ef3-57e832617c94" />
 
+i really like labeling my schematic neatly so i use lines to point and reason why im using what and what it does 
+
