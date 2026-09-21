@@ -1,6 +1,7 @@
 # STM32-powered-keyboard
 
 for my past keyboard build i used an external devboard , the raspberry pico, to operate the board 
+
 as you can see in my project keylouder - https://github.com/AdityaCoppisetti/keylouder .
 
 <img width="1258" height="447" alt="image" src="https://github.com/user-attachments/assets/af4a0bda-25b3-42bd-bd33-c61d6b25a206" />
