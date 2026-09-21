@@ -135,3 +135,6 @@ now lets move onto-
 ## VERSION 2
 
 now for this design , i will be considering them as 2 modules
+
+1) c type port module
+2) the STM32 microcontroller module
