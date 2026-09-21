@@ -117,7 +117,7 @@ also i accidentally connected the boot button to +3V3 when its supposed to be +3
 <img width="556" height="537" alt="image" src="https://github.com/user-attachments/assets/e69c0cff-44ba-4696-b7bb-c17256b0af8d" />
 
 
-i did place the components and route them and make the pcb ,however i do not like the design that i have made , so i will be redesigning it 
+i did place the components and route them and make the pcb ,
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c86d1f43-7486-4172-9d5f-3b84bae30eb1" />
