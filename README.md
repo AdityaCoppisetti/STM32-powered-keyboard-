@@ -127,3 +127,7 @@ however i do not like the design that i have made , so i will be redesigning it
 
 <img width="668" height="742" alt="image" src="https://github.com/user-attachments/assets/fc90d341-106e-4d76-ac10-a064dffab3ef" />
 
+
+now i wont delete this design , i will simply consider this as the version 1. 
+
+
