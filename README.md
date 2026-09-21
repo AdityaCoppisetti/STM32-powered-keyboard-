@@ -122,4 +122,5 @@ i did place the components and route them and make the pcb ,
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c86d1f43-7486-4172-9d5f-3b84bae30eb1" />
 
+however i do not like the design that i have made , so i will be redesigning it 
 
